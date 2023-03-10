@@ -1,3 +1,3 @@
-module se
+module sencoding
 
 go 1.20
