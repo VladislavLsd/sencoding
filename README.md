@@ -1,7 +1,7 @@
 # SEncoding
-Sencoding - Custom base64 encoding 
+SEncoding - Custom base64 encoding 
 
 # Install
-go get github.com/VladislavLsd/SEncoding
+go get github.com/VladislavLsd/sencoding
 
 # Usage
