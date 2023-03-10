@@ -1,4 +1,4 @@
-package sencoding
+package main
 
 import (
 	"crypto/rand"
