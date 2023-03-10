@@ -1,4 +1,4 @@
-package main
+package sencoding
 
 import (
 	"encoding/base64"
